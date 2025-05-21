@@ -1,6 +1,7 @@
 servicex-analysis-utils
 func-adl-servicex-xaodr21
 pyarrow
+pandas
 
 jupyterlab
 matplotlib
